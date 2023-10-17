@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\obj\Debug\if yapısı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\obj\Debug\if yapısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\obj\Debug\if_yapısı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\obj\Debug\if_yapısı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\obj\Debug\if yapısı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\obj\Debug\if yapısı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\bin\Debug\if yapısı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\bin\Debug\if yapısı.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\bin\Debug\if yapısı.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\obj\Debug\if yapısı.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\if yapısı\if yapısı\obj\Debug\if yapısı.pdb
